@@ -43,7 +43,7 @@ Neural simulations · dynamical systems · oscillatory brain networks · brain s
 - 🎧 Contributed to low-cost digital hearing aid technology for underserved populations
 
 ## 📌 Featured Projects
-- **P300 EEG Classification** — single-trial, single-channel pipeline (LDA, SVM, Random Forest)
+- **Characterizing endogenous delta oscillations in human MEG**— MEG analysis pipeline (MNE-Python) for spectral peak detection, oscillatory burst analysis, and behavioral correlates; published in Scientific Reports (data on OSF)
 - More coming soon!
 
 ## 📚 Publications
